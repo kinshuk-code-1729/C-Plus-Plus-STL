@@ -11,7 +11,7 @@
 - **Iterators**
 
 ## Multisets
-### A multiset is an STL container that can contain multiple objects which have the same value which is stored in a well-defined manner. The multisets are almost similar to multisets, except in multisets only unique elements are allowed but in multisets, multiple elements with the same values are also allowed.
+### A multiset is an STL container that can contain multiple objects which have the same value which is stored in a well-defined manner. The multisets are almost similar to sets, except in sets only unique elements are allowed but in multisets, multiple elements with the same values are also allowed.
 
 ![image](https://user-images.githubusercontent.com/90320839/200189157-3d4532ef-a0ca-46d1-bbfc-36d16bd1b259.png)
 
