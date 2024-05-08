@@ -11,7 +11,7 @@
 - **Iterators**
 
 ## Multisets
-> *A multiset is an STL container that can contain multiple objects which have the same value which is stored in a well-defined manner. The multisets are almost similar to sets, except in sets only unique elements are allowed but in multisets, multiple elements with the same values are also allowed.*
+> **A multiset is an STL container that can contain multiple objects which have the same value which is stored in a well-defined manner. The multisets are almost similar to sets, except in sets only unique elements are allowed but in multisets, multiple elements with the same values are also allowed.**
 
 ![image](https://user-images.githubusercontent.com/90320839/200189157-3d4532ef-a0ca-46d1-bbfc-36d16bd1b259.png)
 
@@ -21,7 +21,7 @@
 - **The first is a *set* and the other is an *iterator.***
 
 ## Unordered Maps
-> *Unordered maps are the containers that contain key-value pairs in a randomised manner.Every key present in the unordered map is distinct though their key values can be the same. The unordered map is implemented internally using hashing.*
+> **Unordered maps are the containers that contain key-value pairs in a randomised manner.Every key present in the unordered map is distinct though their key values can be the same. The unordered map is implemented internally using hashing.**
 
 ![image](https://user-images.githubusercontent.com/90320839/200189172-c51c2f15-3284-43bd-b5a9-630d96d9e869.png)
 
